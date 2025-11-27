@@ -27,7 +27,7 @@ jangan maen di publik server, bikin private jir, gratis
     InfoSection:AddParagraph({
         Title = "Fall X Tako",
         Content = "Donate Pls",
-        Icon = "108293258172163",
+        Icon = "rbxassetid://108293258172163",
         ButtonText = "COPY LINK TAKO",
         ButtonCallback = function()
             if setclipboard then
